@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/dapr/v17
+/TasksTracker.ContainerApps/TasksTracker.TasksManager.Backend.Api/bin/Debug/net6.0
+/TasksTracker.ContainerApps/TasksTracker.TasksManager.Backend.Api/obj
+/TasksTracker.ContainerApps/.vs/TasksTracker.TasksManager
+/TasksTracker.ContainerApps/.vs/TasksTracker.ContainerApps
+/TasksTracker.ContainerApps/.vs/ProjectEvaluation
+*.sqlite
+/.vs/VSWorkspaceState.json

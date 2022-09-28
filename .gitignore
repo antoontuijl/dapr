@@ -10,3 +10,7 @@
 /TasksTracker.ContainerApps/.vs/ProjectEvaluation
 *.sqlite
 /.vs/VSWorkspaceState.json
+/TasksTracker.ContainerApps/TasksTracker.WebPortal.Frontend.Ui/obj
+/DaprCounter/.vs/DaprCounter
+/DaprCounter/DaprCounter/bin/Debug/net6.0
+/DaprCounter/DaprCounter/obj

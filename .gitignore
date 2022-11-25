@@ -14,3 +14,11 @@
 /DaprCounter/.vs/DaprCounter
 /DaprCounter/DaprCounter/bin/Debug/net6.0
 /DaprCounter/DaprCounter/obj
+/SendMessageToTopic/SendMessageToTopic/bin/Debug/net6.0
+/SendMessageToTopic/SendMessageToTopic/obj
+/SendMessageToTopic/.vs/SendMessageToTopic/v17/TestStore/0
+/DaprSubPub/.vs
+/DaprSubPub/order-processor/bin/Debug/net6.0
+/DaprSubPub/order-processor/obj
+/DaprSubPub/checkout/bin/Debug/net6.0
+/DaprSubPub/checkout/obj
